@@ -1,5 +1,19 @@
-.border {
+.header {
 	
+	min-height:150px;
+	border:2px solid black;
+	
+}
+.panel {
+	
+	min-height:500px;
+	border:2px solid black;
+	
+}
+
+.content {
+	
+	min-height:500px;
 	border:2px solid black;
 	
 }
