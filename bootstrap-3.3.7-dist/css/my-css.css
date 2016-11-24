@@ -1,19 +1,44 @@
 .header {
 	
-	min-height:150px;
+	height:150px;
 	border:2px solid black;
 	
 }
 .panel {
 	
-	min-height:500px;
+	margin:0px;
+	padding:15px;
 	border:2px solid black;
 	
 }
 
 .content {
 	
+	text-align:center;
+	padding:15px;
+	margin:0px;
 	min-height:500px;
 	border:2px solid black;
+	
+}
+
+#loginForm {
+	
+	
+	
+	border:2px solid black;
+	/*vertical-align:middle; */
+	margin:33% auto;
+}
+
+#loginButton {
+	
+	display:block;
+	margin:5px auto;
+	border:2px solid black;
+}
+.col-lg-4 {
+	
+	min-height:500px;
 	
 }
